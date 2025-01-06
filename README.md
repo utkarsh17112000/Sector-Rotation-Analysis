@@ -1,4 +1,4 @@
-# Market Movement Analysis
+# Sector Movement Analysis
 
 This project aims to analyze and predict sector rotation patterns in the Indian stock market by leveraging NIFTY indices data. The analysis incorporates data visualization, statistical insights, and machine learning models to provide actionable insights into market trends. The project also includes interactive Tableau dashboards to present the data intuitively for stakeholders.
 
