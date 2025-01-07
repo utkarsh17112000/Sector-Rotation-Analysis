@@ -2,6 +2,11 @@
 
 This project aims to analyze and predict sector rotation patterns in the Indian stock market by leveraging NIFTY indices data. The analysis incorporates data visualization, statistical insights, and machine learning models to provide actionable insights into market trends. The project also includes interactive Tableau dashboards to present the data intuitively for stakeholders.
 
+
+Google Colab Link: https://colab.research.google.com/drive/1tmjiJ1C8Q9S8gdxHLIbAtcSbx4HkFGFG?usp=sharing
+
+Tableau Dasboard : https://public.tableau.com/views/SectorAnalysisProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+
 # Key Features
 
 ## Data Collection:
